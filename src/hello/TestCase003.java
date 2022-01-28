@@ -11,6 +11,6 @@ public class TestCase003 {
     // awesome code
     // code finished in feature branch
 
-// this is my final result
+    // this is my final result
 }
-// this is the changes from local IntelliJ
+    // this is the changes from GitHub.com
